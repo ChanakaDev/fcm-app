@@ -1,6 +1,6 @@
-# flutter_application_1
+# FCM App
 
-A new Flutter project.
+Client: WMA Dummy Project
 
 ## Getting Started
 
@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+### Screen Shots
+<table>
+    <tr>
+        <td> <img src="./assets/images/image_1.png" alt="text" width="400"/> </td>
+        <td> <img src="./assets/images/image_2.png" alt="text" width="200"/> </td>
+    </tr>
+</table>
